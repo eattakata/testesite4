@@ -1,0 +1,2 @@
+Arquivo5 para teste
+Segunda linha do arquivo. Gravada no git local.
