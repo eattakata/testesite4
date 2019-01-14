@@ -1,2 +1,3 @@
 Arquivo de teste
 Primeira linha de teste
+Alteração 1 na branch teste do GIT
