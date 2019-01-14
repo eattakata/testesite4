@@ -1,3 +1,4 @@
-Arquivo de teste
+﻿Arquivo de teste
 Segunda linha de edição
 Terceira linha de edição
+Quarta linha de edição - no git local
