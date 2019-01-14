@@ -1,1 +1,2 @@
 Arquivo 3 criado para teste
+Segunda linha do arquivo incluída no git local
